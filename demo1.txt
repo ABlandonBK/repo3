@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+it's only going to get hotter today
+=======
 today is hot AF in NYC
+>>>>>>> 72fb36bc04c6097e539711c16394be6e2efd3861
